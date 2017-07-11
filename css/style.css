@@ -57,6 +57,9 @@
 	width: 100%;
 	max-width: 9999px;
 }
+.fluid a:hover{
+	color:black;
+}
 .ui.card, .ui.cards > .card{
 	background: #FFF;
 	padding: 0;
@@ -127,4 +130,30 @@ img{
 .btn-primary.focus, .btn-primary:focus{
 	color:black;
 	background:white;
+}
+#services{
+	border-bottom:none;
+}
+#work{
+	background-color: #f5f5f5;
+	border-bottom:none;
+}
+.cepat{
+	background-color: white;
+	border-radius: 6px;
+	border-color:black;
+}
+.category{
+	color: #33373D;
+	width:12.5%;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+
+}
+.category:hover{
+	color: #33373D;
+}
+#pencarian{
+	padding: 33px 0px;
+	width: 12.5% !important;
 }
