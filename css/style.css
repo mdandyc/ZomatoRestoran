@@ -1,0 +1,130 @@
+.logozomato{
+	height: 130px;
+	width: 130px;
+}
+.dropdown{
+
+	margin-top: 10px;
+}
+.dropdown-toggle{
+	border-radius: 4px;
+	border:none;
+	height: 40px;
+	width: 180px;
+}
+.search{
+	margin-top: 10px;
+
+
+}
+.btn-primary{
+	color:black;
+	background: white;
+	border-color:black;
+}
+.btn-primary:hover{
+	color:black;
+	background: white;
+}
+.btn-primary.active, .btn-primary:active, .open > .dropdown-toggle.btn-primary{
+	color:black;
+	background:white;
+}
+.btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary.focus:active, .btn-primary:active:focus, .btn-primary:active:hover, .open > .dropdown-toggle.btn-primary.focus, .open > .dropdown-toggle.btn-primary:focus, .open > .dropdown-toggle.btn-primary:hover{
+	color:black;
+	background:white;	
+}
+.dropdown-menu{
+	margin:2px 0px 0px ;
+}
+.login{
+		margin-top: 20px;
+	margin-left: 900px;
+}
+.btn-blue{
+	background: 0 0 !important;
+	border: 2px solid #fff !important;
+	border-radius: 3px !important;
+}
+.hitam{
+	height: 630px;
+	 background-color:black; opacity:0.8;
+}
+.page .content.cover{
+	padding:100px 0;
+}
+.ui.fluid.card{
+	width: 100%;
+	max-width: 9999px;
+}
+.ui.card, .ui.cards > .card{
+	background: #FFF;
+	padding: 0;
+	border: 1px solid #e7e7e7;
+	border-radius: .28571429rem;
+}
+.collections-grid .collection-box-bg{
+	height: 120px;
+	background-size: cover;
+	border-bottom-left-radius: 4px;
+	border-top-left-radius: 4px;
+}
+.mbot{
+	margin-bottom: 20px;
+	height: 100px;
+}
+img{
+  width:100%;
+  height:auto;
+}
+.collection-box-bg img{
+	margin-right: 200px;
+	border-radius: 5px;
+	width: 130px;
+	height: 130px;
+
+}
+.col-md-6 b{
+	margin-top: 5px;
+	margin-left: -20px;
+}
+.card{
+	margin-top: 30px;
+}
+.desk{
+	margin-top: 20px;
+}
+#keywords_input{
+	height: 40px;
+	width: 330px;
+	border:none;
+}
+#keywords_container{
+
+	border-radius: 4px;
+	background-color: white;
+}
+.navbar-default{
+	background-color: #f5f5f5;
+	border-color:#f5f5f5;
+}
+#search_button{
+	width: 80px;
+	margin-left:15px;
+	height: 40px;
+}
+.cari{
+	opacity: 0.7;
+	background-color: #cb202d;
+	border-radius: 4px;
+}
+.navbar{
+	min-height:65px;
+}
+.navbar-height{
+	margin-top: 5px;
+}
+.btn-primary.focus, .btn-primary:focus{
+	color:black;
+	background:white;
+}
