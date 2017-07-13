@@ -177,3 +177,25 @@ img{
 .pop a:hover{
 	color:#2d2d2d;
 }
+.modal-dialog{
+	width: 450px;
+	margin:100px auto;
+}
+.form-control{
+	height: 50px;
+}
+input[type="checkbox"]{
+	cursor:pointer;
+
+}
+.btn-mas{
+	font-size: 12px;
+	height: 50px;
+	border-radius: 4px;
+	color:white;
+	background-color: #CB202D;
+	box-shadow: 0 0 0 0 #e7e7e7 inset;
+}
+#privacy a{
+	color:#cb202d;
+}
