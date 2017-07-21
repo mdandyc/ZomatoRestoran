@@ -118,7 +118,7 @@ img{
 }
 .cari{
 	opacity: 0.7;
-	background-color: #cb202d;
+	background-color: #00e5ff;
 	border-radius: 4px;
 }
 .navbar{
@@ -198,4 +198,8 @@ input[type="checkbox"]{
 }
 #privacy a{
 	color:#cb202d;
+}
+.btn-cyan{
+	color:#FFF;
+	border-color:#00e5ff;
 }
